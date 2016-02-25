@@ -1,0 +1,7 @@
+{
+  "name": "shortlist-digital/timber-rewrite-image-domain",
+  "type": "wordpress-plugin",
+  "description": "Rewrite image urls in Timber wordpress sites",
+  "license": "MIT"
+  }
+}
